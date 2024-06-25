@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ab3babcb6f236a46a1ec5628abdbfdb, type: 3}
+  m_Name: IronArmor
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemName: Iron armor
+  icon: {fileID: -1581127718, guid: a9ca9a41598dd2e44b125928045c518f, type: 3}
+  dropRate: 25
+  equipmentType: 1
+  itemEffects: []
+  strengh: 0
+  agility: 0
+  intelligence: 0
+  vitality: 2
+  damage: 0
+  critRate: 0
+  critDamage: 0
+  maxHealth: 10
+  armor: 2
+  evasion: 0
+  magicResistance: 0
+  fireDamage: 0
+  iceDamage: 0
+  lightningDamage: 0
+  craftingMaterial:
+  - data: {fileID: 11400000, guid: e6ef327bdad541b4bb8db55cb607c4c3, type: 2}
+    stackSize: 1
+  - data: {fileID: 11400000, guid: 5779f2a1000137a45b6146a04e4d8716, type: 2}
+    stackSize: 1
